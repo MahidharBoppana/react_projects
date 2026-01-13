@@ -132,7 +132,7 @@ npm start
 
 ## 👤 Author
 
-Mahidhar Boppana
+**Mahidhar Boppana**
 GitHub: https://github.com/MahidharBoppana
 
 ---
