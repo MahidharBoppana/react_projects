@@ -41,7 +41,6 @@ This repository is ideal for **practice, revision, and interview preparation**.
 
 * React (Functional Components)
 * JavaScript (ES6+)
-* HTML5
 * CSS3
 * React Hooks
 * REST APIs
